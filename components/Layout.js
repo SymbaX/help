@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
 
-const siteTitle = "DQ-Site";
+const siteTitle = "SymbaX - ヘルプセンター";
 
 export default function Layout({ children }) {
   return (
